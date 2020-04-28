@@ -1,0 +1,1 @@
+delete from building where id = 10;

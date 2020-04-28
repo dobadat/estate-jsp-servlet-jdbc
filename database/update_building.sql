@@ -1,0 +1,1 @@
+update building set name= 'datddd',id = 8 where id = 8;
